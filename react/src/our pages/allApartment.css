@@ -1,0 +1,39 @@
+#cardDiv{
+    align-items: center;
+    justify-content: center;
+   justify-content:space-around;
+    display:grid;
+    /* display: flex;
+    flex-wrap: wrap; */
+    
+    width: 100%;
+    grid-template-columns:22%  22% 22% 22%   ;  
+     /* background-position: 50% 50%; */
+    /* gap: 15vh;
+    column-gap:1vh; */
+   background-color:rgb(205, 242, 242);
+   
+    }
+    .off{
+color: red;
+    }
+    .on{
+        color: green;
+    }
+    .but{
+        color: black;
+        background-color:rgb(79, 209, 249);
+    }
+    #ccard{
+        height: auto;
+    }
+
+    button{
+        border-radius: 20%;
+        color: rgb(78, 40, 40);
+        width: 2.5cm;
+        height: 1cm;
+        background-color: rgb(45, 145, 152);
+        box-shadow: 0cap;
+        border: 0cap;
+    }

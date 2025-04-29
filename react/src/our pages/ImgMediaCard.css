@@ -1,0 +1,25 @@
+#cardDiv{
+    align-items: center;
+    justify-content: center;
+   justify-content:space-around;
+    display:grid;
+    width: 100%;
+     grid-template-columns:22%  22% 22% 22%   ; 
+    background-position: 50% 50%;
+    gap: 4vh;
+    column-gap:1vh;
+   background-color:rgb(195, 248, 243);
+    }
+    .off{
+color: red;
+    }
+    .on{
+        color: green;
+    }
+    .but{
+        color: black;
+        background-color:rgb(79, 209, 249);
+    }
+    #ccard{
+        height: auto;
+    }

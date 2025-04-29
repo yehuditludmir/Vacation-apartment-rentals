@@ -1,0 +1,18 @@
+#divotef{
+    align-items: center;
+    justify-content: center;
+    justify-content:space-around;
+    display:grid;
+    width: 100%;
+     grid-template-columns:24% 24% 24% 24%  ; 
+}
+#box{
+    background-color:rgb(249, 244, 215);
+}
+#pratim{
+  text-align: center;
+align-items: center;
+}
+body{
+  margin-top: 110px;
+}

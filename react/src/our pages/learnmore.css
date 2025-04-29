@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(208, 255, 255);
+}
+#learnbody{
+    align-items: center;
+    justify-content: center;
+   justify-content:space-around;
+    display:grid;
+    width: 100%;
+     grid-template-columns:35% 35%  ;
+     gap: 3%;
+}
+#imgcar{
+    width: 80vh;
+}
+#img12{
+    width: 80vh; 
+}
